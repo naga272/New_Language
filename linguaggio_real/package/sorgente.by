@@ -1,0 +1,4 @@
+include <fio>
+include <math>
+
+variabile = 5
