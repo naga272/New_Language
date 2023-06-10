@@ -13,30 +13,6 @@ il programma .by può contenere le seguenti istruzioni:
 - #include <math>
 - var = 4
 
-l'output del programma sorgente.by inserendo:
-include <fio>
-include <math>
-
-variabile = 5
-
-sarà il seguente:
-
-
-Il file corrisponde ed esiste
-include <fio>
-
-['scanf', 'printf', 'fopen', 'rmdir', 'mkdir']
-| error a riga 1: "include <fio>" -> syntax error |
-include <math>
-
-['pow', 'scanf', 'tan', 'cotan', 'log', 'printf', 'cos', 'sin', 'fopen', 'rmdir', 'sqrt', 'mkdir']
-| error a riga 2: "include <math>" -> syntax error |
-
-['pow', 'scanf', 'tan', 'cotan', 'log', 'printf', 'cos', 'sin', 'fopen', 'rmdir', 'sqrt', 'mkdir']
-| error a riga 3: "" -> syntax error |
-
-['pow', 'scanf', 'tan', 'cotan', 'log', 'printf', 'cos', 'sin', 'fopen', 'rmdir', 'sqrt', 'mkdir']
-| error a riga 4: "variabile = 5" -> syntax error |
 ## Requisiti
 
 IDE python
