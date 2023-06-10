@@ -21,6 +21,7 @@ variabile = 5
 
 sarà il seguente:
 
+
 Il file corrisponde ed esiste
 include <fio>
 
@@ -30,8 +31,10 @@ include <math>
 
 ['pow', 'scanf', 'tan', 'cotan', 'log', 'printf', 'cos', 'sin', 'fopen', 'rmdir', 'sqrt', 'mkdir']
 | error a riga 2: "include <math>" -> syntax error |
+
 ['pow', 'scanf', 'tan', 'cotan', 'log', 'printf', 'cos', 'sin', 'fopen', 'rmdir', 'sqrt', 'mkdir']
 | error a riga 3: "" -> syntax error |
+
 ['pow', 'scanf', 'tan', 'cotan', 'log', 'printf', 'cos', 'sin', 'fopen', 'rmdir', 'sqrt', 'mkdir']
 | error a riga 4: "variabile = 5" -> syntax error |
 ## Requisiti
