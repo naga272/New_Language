@@ -11,7 +11,7 @@ il programma .by può contenere le seguenti istruzioni:
 
 - #include \<fio\> 
 - #include \<math\>
-- var = 4
+- var = 4;
 
 ## Requisiti
 
