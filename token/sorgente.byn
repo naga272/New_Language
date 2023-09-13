@@ -1,0 +1,24 @@
+a = 4 + 6
+z = "hello world"
+
+//    commento inline
+//    COSTRUTTO IF TEORICO
+//    (condizione)?{
+//        istruzioni...
+//    }
+//
+
+(2 != a)?{
+    a = 6
+    b = "ciao"
+    d = "ciao a tutti"
+}
+
+
+
+
+//    COSTRUTTO WHILE TEORICO
+//    while( 2 + 6 > 5){   
+//        printf(f)dwe
+//        wdadf = 2a
+//    }
